@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/BookPoint/.vs/BookPoint/v16
+/BookPoint/BookPoint/obj
+/BookPoint/.vs/BookPoint/config
+/BookPoint/BookPoint/bin/Debug/netcoreapp3.1
